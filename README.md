@@ -1,5 +1,5 @@
 # Project Name : MY-FB
-Azure Services Used : Resource Group , Storage Accounts , Static Website
+Azure Services Used : Resource Group , Storage Accounts , Static Website , Deployment
 
 # Resource Group
 ![Screenshot (240)](https://github.com/mahimakasture/MYPROJECT/assets/119916549/34eef482-8d6a-4753-a45b-f08c2e019164)
@@ -9,3 +9,5 @@ Azure Services Used : Resource Group , Storage Accounts , Static Website
 ![Screenshot (237)](https://github.com/mahimakasture/MYPROJECT/assets/119916549/baa91402-1eb1-42c7-b5d4-1241ceec6ede)
 # Static Website
 ![Screenshot (236)](https://github.com/mahimakasture/MYPROJECT/assets/119916549/1c49cc87-252a-4cc9-a78d-62a313b4aa7f)
+# Deployment
+![Screenshot (241)](https://github.com/mahimakasture/MYPROJECT/assets/119916549/d1965227-2c9c-49d5-a1a4-ec31c33fe8ec)
