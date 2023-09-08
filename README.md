@@ -1,5 +1,6 @@
 # Project Name : MY-FB
-Azure Services Used : Resource Group , Storage Accounts , Static Website 
+Azure Services Used : Resource Group , Storage Accounts , Static Website
+
 # Resource Group
 ![Screenshot (240)](https://github.com/mahimakasture/MYPROJECT/assets/119916549/34eef482-8d6a-4753-a45b-f08c2e019164)
 # Microsoft Defender For cloud
